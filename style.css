@@ -1,0 +1,291 @@
+body {
+    text-align: center;
+    background: linear-gradient(#f542c8 0%, #42e9f5 100%);
+}
+
+#do {
+    height: 400px;
+    width: 400px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+#wl {
+    font-family: Zen Tokyo Zoo;
+    font-size: 50px;
+    font-color: #c23c47;
+    text-align: justify;
+    margin-top: -50px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10px;
+    cursor: pointer;
+}
+
+.links {
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: aqua;
+}
+
+#About {
+    margin-top: 40px;
+    font-size: 50px;
+}
+
+#id1 {
+    background: linear-gradient(#fcba03 0%, #7ffc03 100%);
+}
+
+h1,
+h2,
+h3 {
+    font-family: Zen Tokyo Zoo;
+    font-size: 50px;
+}
+
+#Name {
+    font-family: Zen Tokyo Zoo;
+    font-size: 50px;
+    font-color: red;
+}
+
+#id2 {
+    margin-right: 2000px;
+    hight: 200px;
+    width: 500px;
+}
+
+.links {
+    font-family: Zen Tokyo Zoo;
+    font-size: 23px;
+    background-color: yellow;
+}
+
+.menu1 {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    z-index: 10px;
+    cursor: pointer;
+}
+
+.class {
+    font-family: Zen Tokyo Zoo;
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.class:hover {
+    background-color: pink;
+}
+
+h4 {
+    font-size: 30px;
+    margin: 50px;
+}
+
+h5 {
+    font-size: 20px;
+    margin-bottom: -40px;
+}
+
+h6 {
+    font-size: 20px;
+}
+
+#Section {
+    margin-top: -50px;
+    margin-bottom: -50px;
+    background-color: #9bb0a2;
+}
+
+#img1 {
+    height: 200px;
+    width: 200px;
+    margin-right: 50px;
+}
+
+#img2 {
+    height: 200px;
+    width: 200px;
+    margin-right: 50px;
+}
+
+#img3 {
+    height: 200px;
+    width: 200px;
+    margin-right: 50px;
+}
+#im1 {
+    height: 200px;
+    width: 200px;
+    margin-right: 50px;
+}
+
+#im2 {
+    height: 200px;
+    width: 200px;
+    margin-right: 50px;
+}
+
+#im3 {
+    height: 200px;
+    width: 200px;
+    margin-right: 50px;
+}
+
+#img4 {
+    height: 200px;
+    width: 200px;
+}
+
+.my-skills {
+    margin-top: 10rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    grid-gap: 2.5rem;
+    text-align: center;
+
+}
+
+.add {
+    padding-bottom: 100px;
+}
+
+.skill {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+.skill h1 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 2rem -2px 2rem 0;
+}
+
+.newImage1 {
+    width: 15rem;
+    height: 16rem;
+    overflow: hidden;
+}
+
+.newImage {
+    width: 10rem;
+    height: 17rem;
+    overflow: hidden;
+}
+
+.icon-container {
+    width: 10rem;
+    height: 10rem;
+    border: 3px solid #ffe838;
+    background-color: #B39BCA;
+    margin-bottom: 2rem;
+    display: flex;
+    transform: rotate(45deg);
+}
+
+.icon-container i {
+    color: #374785;
+    border: #ffe838;
+    font-size: 5rem;
+    margin: auto;
+    transform: rotate(-45deg);
+}
+#i1{
+    height: 300px;
+    width: 300px;
+    margin-left: 35px;
+}
+.bio{
+        margin-right: 100px;
+        font-size: 20px;
+}
+.bio1{
+    margin-left: 90px;
+    font-size: 20px;
+}
+.bio2{
+    margin-left: 140px;
+        font-size: 20px;
+}
+#Section{
+  margin-top: 50px;
+    text-align: center;
+  margin-bottom: -350px;
+background-color:#9bb0a2;
+
+}
+.menu1{
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    z-index: 10px;
+    cursor: pointer;
+    margin-left: 600px;
+}
+body{
+    text-align: center;
+}
+h1{
+    font-family: cursive;
+    font-size: 50px;
+}
+#app{
+    background: orange;
+    width: 100%;
+    height: 800px; 
+    align-content: space-around;
+}
+#games{
+    background: white;
+    width: 100%;
+    height: 400px; 
+    align-content: space-around;
+}
+#chat{
+    background: green;
+    width: 100%;
+    height: 800px; 
+    align-content: space-around;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9)
+}
+#Writings a {
+    text-shadow: none!important;
+    text-decoration: overline!important;
+    text-decoration: underline!important;
+    color: gold !important;
+}
+a{
+    color: crimson;
+    text-shadow: 2px 2px gainsboro ;
+}
